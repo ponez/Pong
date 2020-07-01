@@ -1,0 +1,11 @@
+{
+  "name": "pong",
+  "version": "0.0.0.0.0.9",
+  "description": "Pong game made in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ponez",
+  "license": "ISC"
+}
