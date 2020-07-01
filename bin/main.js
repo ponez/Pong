@@ -93,7 +93,7 @@ class Game {
       this.ball.leftOfBall < 0 ||
       this.ball.rightOfBall > this.canvas_.width
     ) {
-      let niggaID;
+      let niggaID; // player scores
       if (this.ball.velocity.x < 0) {
         niggaID = 1;
       } else {
